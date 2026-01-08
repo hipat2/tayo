@@ -1,0 +1,7 @@
+{
+  "name": "tayo-school-portal",
+  "description": "Professional Desktop-style School Management System for .tayo school with Sidebar navigation and role-based dashboards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
